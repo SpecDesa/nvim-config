@@ -1,2 +1,1 @@
 require("desa")
-print("Hello")

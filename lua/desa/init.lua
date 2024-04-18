@@ -1,2 +1,6 @@
+require("desa.packer")
+require("desa.set")
 require("desa.remap")
-print("Hello from me")
+require("desa.colors")
+require("desa.autoclose")
+require("desa.trouble")
