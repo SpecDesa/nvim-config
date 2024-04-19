@@ -1,3 +1,6 @@
+# Thanks to ThePrimeagen (Heavily inspired from his video on setting up NVIM). 
+
+# Some shortcuts that I see myself forgetting at times.
 - Go back - leader + pv
 
 - Create file or dir
