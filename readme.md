@@ -40,7 +40,7 @@
     - ctrl + r for redo
 
 - comment multiple 
-    - before line, hit ctrl + C
+    - before line, hit ctrl + V
         - go down/up 
         - shift+ I 
         - type your -- or // or # 
@@ -49,6 +49,8 @@
 - undotree -  leader + e
     - able to search for something in the past.
 
+- surround text : ciw (for inner word) and then c (for change) add symbol
+    either quit and paste or ctrl-r + the symbol e.g. ctrl-r + "
 - Replace - V: and write s/<to be replaced>/<replace value>/g
 - find in string - f <looking for val>
 - replace val under cursor - r<replace new value>
@@ -66,3 +68,5 @@
 - ctrl + space for list of auto complete
 - ctrl + y for selecting auto
 - ctrl + p / n for previous and next
+
+

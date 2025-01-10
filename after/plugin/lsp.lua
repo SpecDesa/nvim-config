@@ -1,7 +1,5 @@
 local lsp_zero = require('lsp-zero')
 
-lsp_zero.preset("recommended")
-
 lsp_zero.on_attach(function(client, bufnr)
   local opts = {buffer = bufnr, remap = false}
 
