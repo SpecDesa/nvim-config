@@ -73,3 +73,6 @@
 - ctrl + p / n for previous and next
 
 
+# go to definition
+- gd
+- go back?
